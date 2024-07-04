@@ -83,11 +83,11 @@ body {
 }
 
 .home-content {
-    max-width: 600px;
+    max-width: 550px;
 }
 
 .home-content h1 {
-    font-size: 50px;
+    font-size: 56px;
     font-weight: 700;
     margin: -3px 0;
     letter-spacing: 5px;
